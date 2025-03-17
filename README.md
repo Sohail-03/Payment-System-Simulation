@@ -19,6 +19,3 @@ This is a simple simulation of a payment system built using Python. The system a
 
 - **Python**: Backend logic for managing accounts and transactions.
 - **SQLite**: A simple database to store account information and transactions.
-
-## File Structure
-
